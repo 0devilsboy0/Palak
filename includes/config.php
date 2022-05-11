@@ -7,10 +7,10 @@
 // define('DB_NAME', 'palak');
 
 //Configuration for Hosting
-define('DB_SERVER', 'mysql5046.site4now.net');
-define('DB_USER', 'a7ea0d_palak');
+define('DB_SERVER', 'mysql8001.site4now.net');
+define('DB_USER', 'a86c2f_palak');
 define('DB_PASS', 'P@55Word');
-define('DB_NAME', 'db_a7ea0d_palak');
+define('DB_NAME', 'db_a86c2f_palak');
 
 //Configuration for cPanel
 // define('DB_SERVER', 'mysql5027.site4now.net');

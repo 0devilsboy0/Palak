@@ -7,6 +7,7 @@
 // define('DB_NAME', 'palak');
 
 //Configuration for Hosting
+//Used mywindowshosting for free sql hosting
 define('DB_SERVER', 'mysql8001.site4now.net');
 define('DB_USER', 'a86c2f_palak');
 define('DB_PASS', 'P@55Word');

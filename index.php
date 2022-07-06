@@ -33,7 +33,7 @@ if(isset($_GET['action']) && $_GET['action']=="add"){
     <meta name="keywords" content="jewelry, jewellery">
     <meta name="robots" content="all">
 
-    <title>Palak Jewellers</title>
+    <title>OM Palak Jewellers</title>
 
     <!-- Bootstrap Core CSS -->
     <link rel="stylesheet" href="assets/css/bootstrap.min.css">

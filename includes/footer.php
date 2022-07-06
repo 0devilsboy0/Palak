@@ -9,14 +9,14 @@
     <div class="footer-logo">
         <div class="logo">
             <a href="index.php">
-<h3>Palak Jewellers</h3>
+<h3>OM Palak Jewellers</h3>
             </a>
         </div><!-- /.logo -->
     </div><!-- /.footer-logo -->
 
      <div class="module-body m-t-20">
 
-        <p class="about-us"> Kapilvastu Plot No.227, Shop No.3, Sector No.3, Charkop Kandivali West, Mumbai, Maharashtra 400067 </p>
+        <p class="about-us"> This is a <b>"DEMO Project Website"</b> </p>
     
         <div class="social-icons">
             
@@ -63,56 +63,56 @@
             <li class="media">
                 <div class="pull-left">
                      <span class="icon fa-stack fa-lg">
-                      <a href="https://www.google.com/maps/place/Palak+Jewellers/@19.2176039,72.8288659,15z/data=!4m5!3m4!1s0x0:0xc35c5c71f8b04524!8m2!3d19.2176041!4d72.8288739">
+                      <a href="#">
                       <i class="fa fa-circle fa-stack-2x"></i>
                       <i class="fa fa-map-marker fa-stack-1x fa-inverse"></i>
                       </a>
                     </span>
                 </div>
                 <div class="media-body">
-                    <span><a href="https://www.google.com/maps/place/Palak+Jewellers/@19.2176039,72.8288659,15z/data=!4m5!3m4!1s0x0:0xc35c5c71f8b04524!8m2!3d19.2176041!4d72.8288739" target="_blank"><p>Mumbai, Maharashtra</p></a></span>
+                    <span><a href="#" target="_blank"><p>Mumbai, Maharashtra</p></a></span>
                 </div>
             </li>
 
             <li class="media">
                 <div class="pull-left">
                      <span class="icon fa-stack fa-lg">
-                     <a href="https://wa.link/w3y0xk" target="_blank">
+                     <a href="#" target="_blank">
                       <i class="fa fa-circle fa-stack-2x"></i>
                       <i class="fa fa-whatsapp fa-stack-1x fa-inverse"></i>
                      </a>
                     </span>
                 </div>
                 <div class="media-body">
-                    <span><a href="https://wa.link/w3y0xk" target="_blank"><p>Chat with Us</p></a></span>
+                    <span><a href="#" target="_blank"><p>Chat with Us</p></a></span>
                 </div>
             </li>
 
               <li class="media">
                 <div class="pull-left">
                      <span class="icon fa-stack fa-lg">
-                      <a href="tel:+918356947093">
+                      <a href="tel:+918356******">
                       <i class="fa fa-circle fa-stack-2x"></i>
                       <i class="fa fa-mobile fa-stack-1x fa-inverse"></i>
                      </a>
                     </span>
                 </div>
                 <div class="media-body">
-                    <span><a href="tel:+918454831534"><p>(+91) 8454831534</a><br><a href="tel:+918356947093" >(+91) 8356947093</p></a></span>
+                    <span><a href="#"><p>(+91) 8454******</a><br><a href="tel:#" >(+91) 8356******</p></a></span>
                 </div>
             </li>
 
               <li class="media">
                 <div class="pull-left">
                      <span class="icon fa-stack fa-lg">
-                     <a href="mailto:rajurathod577@gmail.com" target="_blank">
+                     <a href="#" target="_blank">
                       <i class="fa fa-circle fa-stack-2x"></i>
                       <i class="fa fa-envelope fa-stack-1x fa-inverse"></i>
                      </a>
                     </span>
                 </div>
                 <div class="media-body">
-                    <span><a href="mailto:rajurathod577@gmail.com"><p>rajurathod577@gmail.com</p></a></span>
+                    <span><a href="#"><p>raju******@gmail.com</p></a></span>
                 </div>
             </li>
 
